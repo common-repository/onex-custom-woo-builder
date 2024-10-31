@@ -1,0 +1,4 @@
+body.custom-woo-builder-shop-document.post-type-custom-woo-builder #template-settings,
+body.custom-woo-builder-category-document.post-type-custom-woo-builder #template-settings{
+	display: none;
+}
